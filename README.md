@@ -7,19 +7,20 @@ A full-stack luxury watch e-commerce platform built with **React**, **Node.js**,
 ## 🖼️ Screenshots
 
 ### Home Page
-![Home Page](screenshots/home.png)
+![Home Page 1](screenshots/home.png-1.png)
+![Home Page 2](screenshots/home.png-2.png)
+![Home Page 3](screenshots/home.png-3.png)
+![Home Page 4](screenshots/home.png-4.png)
+![Home Page 5](screenshots/home.png-5.png)
 
-### Watch Listing
-![Watch Listing](screenshots/watches.png)
-
-### Cart Page
-![Cart Page](screenshots/cart.png)
-
-### Orders Page
-![Orders Page](screenshots/orders.png)
+### Watches & Contact
+![Watches](screenshots/home%20watches.png.png)
+![Contact](screenshots/home-contact.png.png)
 
 ### Admin Panel
-![Admin Panel](screenshots/admin.png)
+![Admin Panel 1](screenshots/admin.png-1.png)
+![Admin Panel 2](screenshots/admin.png-2.png)
+![Admin Panel 3](screenshots/admin.png-3.png)
 
 ---
 
